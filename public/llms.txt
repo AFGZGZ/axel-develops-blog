@@ -1,0 +1,4 @@
+# AXEL'S LAB
+
+## Posts
+- [Markdown Syntax Guide (Test Post)](http://localhost:1313/posts/syntax/)
